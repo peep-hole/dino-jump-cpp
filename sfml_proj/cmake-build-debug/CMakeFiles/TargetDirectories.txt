@@ -1,0 +1,3 @@
+/home/peephole/Desktop/sfml_proj/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/peephole/Desktop/sfml_proj/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/peephole/Desktop/sfml_proj/cmake-build-debug/CMakeFiles/sfml_proj.dir

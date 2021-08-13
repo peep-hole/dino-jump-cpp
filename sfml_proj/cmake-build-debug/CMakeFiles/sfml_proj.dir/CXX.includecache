@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/peephole/Desktop/sfml_proj/Game.cpp
+Game.h
+/home/peephole/Desktop/sfml_proj/Game.h
+SFML/Graphics.hpp
+-
+time.h
+-
+iostream
+-
+
+/home/peephole/Desktop/sfml_proj/Game.h
+string
+-
+GameObject.h
+/home/peephole/Desktop/sfml_proj/GameObject.h
+
+/home/peephole/Desktop/sfml_proj/GameObject.h
+SFML/Graphics.hpp
+-
+

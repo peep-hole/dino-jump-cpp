@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/sfml_proj.dir/main.cpp.o CMakeFiles/sfml_proj.dir/Game.cpp.o CMakeFiles/sfml_proj.dir/GameObject.cpp.o -o sfml_proj  /usr/lib/x86_64-linux-gnu/libsfml-system.so /usr/lib/x86_64-linux-gnu/libsfml-window.so /usr/lib/x86_64-linux-gnu/libsfml-graphics.so /usr/lib/x86_64-linux-gnu/libsfml-network.so /usr/lib/x86_64-linux-gnu/libsfml-audio.so 
